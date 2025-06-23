@@ -4,7 +4,6 @@ import org.example.Utilities.DriverSetup;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
-
 import javax.swing.text.Utilities;
 
 public class FrontPageAutomation extends DriverSetup {
