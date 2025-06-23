@@ -1,10 +1,13 @@
-package org.example;
+package org.example.Pages;
 
+import org.example.Utilities.DriverSetup;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-public class FrontPageAutomation extends DriverSetup{
+import javax.swing.text.Utilities;
+
+public class FrontPageAutomation extends DriverSetup {
 
     @Test()
     public void frontPage() throws InterruptedException {
